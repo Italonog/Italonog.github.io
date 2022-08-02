@@ -9,6 +9,9 @@
     color: #ffffff;
     position: relative;
 }
+.formacao{
+    background: #141414;
+}
 
 .formacao .subtitulo {
     color: #000000;

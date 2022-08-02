@@ -1,6 +1,7 @@
 .footer {
     background: black;
-    max-width: 1200px;
+    display: flex;
+    justify-content: center;
     padding: 100px 20px 60px 20px;
     margin: 0 auto;
         
@@ -9,6 +10,7 @@
 
 .footer-container {
     display: grid;
+    max-width: 1200px;
     grid-template-columns: 1fr 1fr;
     align-items: center;
     gap: 50px 100px;
